@@ -28,14 +28,13 @@ This microservice performs basic and advanced arithmetic operations using RESTfu
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/username/sit737-2025-prac6p.git
 cd sit737-2025-prac6p
-`` 
-3. Build and Push Docker Image
+
+### 2. Build and Push Docker Image
 docker build -t <your-dockerhub-username>/calculator-microservice:latest .
 docker push <your-dockerhub-username>/calculator-microservice:latest
-4. Create Kubernetes Files
+### 3. Create Kubernetes Files
 
 apiVersion: apps/v1
 kind: Deployment
