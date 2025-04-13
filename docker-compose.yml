@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  calculator:
+    image: rayudu1889/calculator-microservice:latest
+    ports:
+      - "8080:8080"
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/operations"]
+      interval: 30s # Run the health check every 30 seconds
+      timeout: 10s # Wait up to 10 seconds for a response
+      retries: 3 # Restart the container if it fails 3 times
+

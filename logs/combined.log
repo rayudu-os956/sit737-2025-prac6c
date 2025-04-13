@@ -1,0 +1,22 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 10 subtract 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation requested: 10 multiply 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 10 divide 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 10 divide 5 = 2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 10 divide 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation requested: 10 multiply 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 10 subtract 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 10 subtract 5","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiate operation requested: 10 exponentiate 5","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 10 sqrt 5","service":"calculator-microservice"}
+{"level":"error","message":"Square root of negative number error","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: -10 modulo 5","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 10 modulo 5","service":"calculator-microservice"}

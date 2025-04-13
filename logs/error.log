@@ -1,0 +1,4 @@
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Square root of negative number error","service":"calculator-microservice"}
